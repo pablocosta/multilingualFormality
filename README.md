@@ -1,7 +1,7 @@
 # multilingualFormality
 
 * Colocar os data-sets aqui
-  * xformal
+  * xformal [ok]
   * achar outros para espanhol e alemão
 * treinar modelos supervisionados
   
